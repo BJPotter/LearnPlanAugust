@@ -1,0 +1,6 @@
+#上传到暂存区
+git add . 
+#上传到head区域
+git commit -m "first commit"
+#上传到远程的github仓库
+git push 
